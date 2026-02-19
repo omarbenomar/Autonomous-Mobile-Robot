@@ -1,0 +1,26 @@
+# MacOS
+.DS_Store
+
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# Generated files
+*.elf
+*.bin
+*.hex
+*.uf2
+*.map
+*.dis
+*.pio.h
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
